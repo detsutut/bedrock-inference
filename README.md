@@ -7,7 +7,7 @@
 [![MIT License][license-shield]][license-url]
 
 
-[![Status][status-shield]][status-url] [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10715476.svg)](https://doi.org/10.5281/zenodo.10715476)
+[![Status][status-shield]][status-url] 
 
 
 <sub> **Keywords**: *generative AI, Amazon AWS, Bedrock, API, wrapper, LLM, inference, NLP*. </sub>
