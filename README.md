@@ -19,7 +19,7 @@ Bedrock Inference is a simple python package to handle 2FA and on-demand calls t
 <!-- REQUIREMENTS -->
 ## Requirements
 
-- An **AWS IAM account**
+- An active and configured **AWS IAM account**
 - An **Access key ID** (es: AKIAIOSFODNN7EXAMPLE) and its correspondent **secret access key** (es: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY) for API requests
     - These credentials can be created through Home --> Security credentials --> Access Keys --> Create access key
     - If you have AWS CLI installed and set up on your machine, chances are your credentials are already stored at ~/.aws/credentials and/or in the AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY environment variables. In this case, the package will retrieve them automatically.
