@@ -62,6 +62,8 @@ The `profile` name you choose can be used later in `aws_login_mfa` in place of `
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+Here is a minimal example of how the AWS Bedrock models can be invoked with `bedrock-inference`.
+
 ```python
 from bedrock_inference import bedrock
 
@@ -79,6 +81,8 @@ print(caller.list_models())
 answer = caller.invoke_model(prompt="What's the conceptual opposite of 'Hello World'?", model_id="target_aws_model_id")
 print(answer)
 ```
+
+A more extensive example, including advanced usage, can be found in [this notebook](bedrock_inference_example.ipynb).
 
 <!-- CONTACTS AND USEFUL LINKS -->
 ## Contacts and Useful Links
