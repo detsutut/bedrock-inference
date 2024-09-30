@@ -28,7 +28,7 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://github.com/detsutut/bedrock_inference"
-Issues = "https://github.com/detsutut/bedrock_caller/issues"
+Issues = "https://github.com/detsutut/bedrock_inference/issues"
 
 [tool.setuptools]
 include-package-data = true

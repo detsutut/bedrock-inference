@@ -46,7 +46,7 @@ Bedrock Inference is a simple python package to handle 2FA and on-demand calls t
 ## Usage
 
 ```python
-import from bedrock_inference import bedrock
+from bedrock_inference import bedrock
 
 # Authenticates through MFA and establish a session
 session = bedrock.aws_login_mfa(arn="MFA_device_arn", token="MFA_token", aws_access_key_id="your_ID", aws_secret_access_key="your_key")
