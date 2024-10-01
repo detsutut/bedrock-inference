@@ -105,13 +105,13 @@ Distributed under MIT License. See `LICENSE` for more information.
 [status-shield]: https://img.shields.io/badge/Status-pre--release-blue
 [status-url]: https://github.com/detsutut/bedrock-inference/releases
 [forks-shield]: https://img.shields.io/github/forks/detsutut/bedrock-inference.svg?style=for-the-badge
-[forks-url]: https://github.com/detsutut/bedrock-inferenc/network/members
+[forks-url]: https://github.com/detsutut/bedrock-inference/network/members
 [stars-shield]: https://img.shields.io/github/stars/detsutut/bedrock-inference.svg?style=for-the-badge
-[stars-url]: https://github.com/detsutut/bedrock-inferenc/stargazers
+[stars-url]: https://github.com/detsutut/bedrock-inference/stargazers
 [issues-shield]: https://img.shields.io/github/issues/detsutut/bedrock-inference.svg?style=for-the-badge
 [issues-url]: https://github.com/detsutut/bedrock-inference/issues
 [license-shield]: https://img.shields.io/github/license/detsutut/bedrock-inference.svg?style=for-the-badge
-[license-url]: https://github.com/detsutut/bedrock-inferenc/blob/master/araucanaxai/LICENSE
+[license-url]: https://github.com/detsutut/bedrock-inference/blob/master/araucanaxai/LICENSE
 [linkedin-shield]: 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/tbuonocore
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
